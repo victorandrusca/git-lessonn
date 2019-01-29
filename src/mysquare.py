@@ -5,5 +5,8 @@ use a ** opeartor
 ""
 return (y**2)
 
-print (mysquare(42))
+def my_square2(x):
+return(x*x)
 
+print (mysquare(42))
+print (my_square2(42))
